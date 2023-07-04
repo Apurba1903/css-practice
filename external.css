@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+  }
+  
+  .box {
+
+    text-align: justify;
+    height:auto;
+    background-color: rgb(255, 161, 161);
+    border: 1px solid rgb(45, 41, 41);
+    box-shadow: 2px 2px black;
+    margin-left: 200px;
+    margin-top: -150px;
+    margin-right: 10px;
+    padding: 3px;
+
+  }
+
+  .head{
+
+    height: 200px;
+    
+    background-image: url('st.webp');
+    background-size: 200px  ;
+    background-repeat:no-repeat;
+    background-position: left;
+    text-align: center;
+
+  }
+  .it{
+    background-color: cadetblue;
+  }
